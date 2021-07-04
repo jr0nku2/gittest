@@ -20,3 +20,6 @@
 19:kaneko2からマージ
 20:あ、pullしてしまった
 21:kaneko11でもいっかいマージ
+22:midify by kaneko22
+23:merge to develop by kaneko22
+
