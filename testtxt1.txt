@@ -8,3 +8,5 @@
 8:devlopに変なPUSHした
 9:conflict解消して、みんなでPULL
 10:kaneko1で追加
+11:kaneko21で追加してdevelopにマージ
+
