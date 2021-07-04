@@ -22,4 +22,6 @@
 21:kaneko11でもいっかいマージ
 22:midify by kaneko22
 23:merge to develop by kaneko22
+24:kaneko11でさらにマージ(kaneko22でマージ後)
 
+25:WEBでconflictを解消してmerge。ここが最新develop 行は27)
