@@ -9,4 +9,5 @@
 9:conflict解消して、みんなでPULL
 10:kaneko1で追加
 11:kaneko21で追加してdevelopにマージ
+12:そしてkaneko12で作業中
 
