@@ -3,4 +3,25 @@
 3:ghi
 4:add by kaneko2 branch
 5:add by kaneko2 branch & merge develop
+5.5:kaneko23で追加したりして
+6:追加しました
+7:コラボすると楽
+8:devlopに変なPUSHした
+9:conflict解消して、みんなでPULL
+10:kaneko1で追加
+11:kaneko21で追加してdevelopにマージ
+12:kaneko23でも作業
+13:どんどん23で作業
+14:まず23がdevelopにマージ
+15:kaneko2 make branch from develop and work on it.
+16:add line by kaneko2 and merge to develop
+17:kaneko1がdevelopから分岐作業中
+18:みんながどんどんdevelopにマージしたらどうなる?
+19:kaneko2からマージ
+20:あ、pullしてしまった
+21:kaneko11でもいっかいマージ
+22:midify by kaneko22
+23:merge to develop by kaneko22
+24:kaneko11でさらにマージ(kaneko22でマージ後)
 
+25:WEBでconflictを解消してmerge。ここが最新develop 行は27)
