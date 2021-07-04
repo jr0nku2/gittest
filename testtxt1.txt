@@ -16,4 +16,5 @@
 15:kaneko2 make branch from develop and work on it.
 16:add line by kaneko2 and merge to develop
 17:kaneko1がdevelopから分岐作業中
-
+18:みんながどんどんdevelopにマージしたらどうなる?
+19:kaneko2からマージ
